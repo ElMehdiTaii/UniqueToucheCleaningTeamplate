@@ -1,2 +1,2 @@
 # UniqueToucheCleaningTeamplate
-<a href="https://www.uniquetouchcleaning.ca/">link</a>
+<a target="blank" href="https://www.uniquetouchcleaning.ca/">link</a>
